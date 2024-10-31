@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+  }
+#main {
+    height: 100%;
+    width: 100%;
+  }
+
+#cursor {
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: fixed;
+  }
+  
+  html, body {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
